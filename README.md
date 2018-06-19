@@ -1,0 +1,1 @@
+This is a collection of data structures written in Javascript.
